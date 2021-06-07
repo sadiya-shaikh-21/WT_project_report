@@ -1,2 +1,2 @@
 # WT_project_report
-![report](/report.pdf)
+![](https:\\github.com\sadiya-shaikh-21\WT_project_report\blob\main\report.pdf)
